@@ -1,0 +1,45 @@
+# Compiled binaries
+*.exe
+*.out
+*.app
+*.o
+*.obj
+
+# Build directories
+build/
+bin/
+out/
+Debug/
+Release/
+
+# IDE files — Visual Studio
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+.vs/
+
+# IDE files — Dev-C++
+*.dev
+*.layout
+
+# IDE files — Code::Blocks
+*.cbp
+*.depend
+*.layout
+
+# IDE files — VS Code
+.vscode/
+
+# IDE files — CLion
+.idea/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
